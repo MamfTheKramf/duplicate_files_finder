@@ -1,3 +1,7 @@
+## Notes:
+- I wasn't able to test this script on MacOS. I tested it on Windows and Linux and it worked fine,
+- The How-To-Guide might seem to over-explain everything, but I wanted people who aren't experienced with programming and such things to be able to use this script as well
+
 ## How To Use
 1. download the repository,
 2. install python3 ([Python download page](https://www.python.org/downloads/))
